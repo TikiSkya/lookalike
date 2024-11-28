@@ -36,6 +36,9 @@ body {
             .movies img {
                 width: 90% !important;    /* Reduce el padding */
             }
+		.movies hr{
+                width: 90% !important;    /* Reduce el padding */
+            }
         }
 .wordart {
     font-family: Arial, sans-serif;
